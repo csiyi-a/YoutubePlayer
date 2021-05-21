@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YoutubePlayer</string>
+
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="input_err">Please enter the correct YouTube URL address</string>
+</resources>

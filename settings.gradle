@@ -1,0 +1,2 @@
+include ':app',':inline-youtube-view'
+rootProject.name = "YoutubePlayer"
